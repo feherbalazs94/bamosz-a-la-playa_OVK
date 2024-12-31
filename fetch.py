@@ -5,10 +5,7 @@ import requests
 from time import sleep
 
 isins = [
-    "HU0000707633",
-    "HU0000716378",
-    "HU0000706239",
-    "HU0000706718",
+    "HU0000727755"
 ]
 
 for isin in isins:
